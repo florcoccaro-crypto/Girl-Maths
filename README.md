@@ -1,1 +1,1 @@
-# Girl-Maths
+# Girl-Math
